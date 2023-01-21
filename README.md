@@ -11,9 +11,7 @@
 
 3. [Navigating through the Webapp](#navigating-through-the-webapp)
    * [Home Page](#home-page)
-   * [Advertisment Page](#advertisment-page)
-   * [Login Page](#login-page)
-   * [Admin Page](#admin-page)
+   * [Car Page](#car-page)
 
 ## Problem Statement
 * While customers want to experience a product in-store and then take the final call, it happens quite often that the product they found on the website is not available on the store, especially if the products are huge like cars. 
@@ -40,10 +38,9 @@
 ### Home Page
  * User can navigate to different cars they want to explore.
  
-![WhatsApp Image 2023-01-21 at 1 12 19 PM](https://user-images.githubusercontent.com/77448543/213880217-de5a6770-5506-4bda-aae2-799f472da96c.jpeg)
-
+ ![WhatsApp Image 2023-01-21 at 1 12 02 PM](https://user-images.githubusercontent.com/77448543/213880215-ad2c8183-6bde-445a-9103-95bdc464c5af.jpeg)
 
 ### Car Page
 * User can check out the Interior, Exterior of the car as well as go back to select another car.
-![image](https://user-images.githubusercontent.com/77448543/213880204-f4e4fd31-8d0a-4083-93dd-08c3050d9bd6.png)
-![WhatsApp Image 2023-01-21 at 1 12 02 PM](https://user-images.githubusercontent.com/77448543/213880215-ad2c8183-6bde-445a-9103-95bdc464c5af.jpeg)
+
+![WhatsApp Image 2023-01-21 at 1 12 19 PM](https://user-images.githubusercontent.com/77448543/213880217-de5a6770-5506-4bda-aae2-799f472da96c.jpeg)
