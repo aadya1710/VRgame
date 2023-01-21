@@ -43,4 +43,6 @@
 ### Car Page
 * User can check out the Interior, Exterior of the car as well as go back to select another car.
 
+![image](https://user-images.githubusercontent.com/77448543/213880204-f4e4fd31-8d0a-4083-93dd-08c3050d9bd6.png)
+
 ![WhatsApp Image 2023-01-21 at 1 12 19 PM](https://user-images.githubusercontent.com/77448543/213880217-de5a6770-5506-4bda-aae2-799f472da96c.jpeg)
